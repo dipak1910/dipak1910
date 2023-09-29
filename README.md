@@ -7,7 +7,7 @@
 ## 📫 Let's connect
 
 [![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/dipak__1910/)
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/dipak1910)
+<!--[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/) -->
 [![Linkdin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/dipak1910/)
 
 ## 💻 Technologies and tools I use:
