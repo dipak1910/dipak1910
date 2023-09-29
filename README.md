@@ -1,4 +1,4 @@
-[![Dipak's GitHub Banner](https://github.com/tushar-2223/tushar-2223/assets/87109400/ef81fa6c-d073-41df-8a50-85a91b9a15a3)](https://github.com/dipak1910)
+[![Dipak's GitHub Banner](https://github.com/dipak1910)](https://github.com/dipak1910)
 
 # 😎 About Me:
 
