@@ -1,8 +1,8 @@
-[![Dipak's GitHub Banner](https://github.com/dipak1910)](https://github.com/dipak1910)
+<!--[![Dipak's GitHub Banner](https://github.com/dipak1910)](https://github.com/dipak1910)-->
 
 # 😎 About Me:
 
-- 💻 I'm a Frontend Web developer
+- 💻 I'm a Web developer
   
 ## 📫 Let's connect
 
