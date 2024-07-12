@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dipakbharvad1910@gmail.com**
 
-- 📄 Know about my experiences [drive.com/dipak][(drive.com/dipak)](https://drive.google.com/file/d/1JSHacWyYI4y3Oip3g1hvPXMIneVjsuOo/view?usp=drive_link).
+- 📄 Know about my experiences (https://drive.google.com/file/d/1JSHacWyYI4y3Oip3g1hvPXMIneVjsuOo/view?usp=drive_link).
 
 
 
