@@ -1,14 +1,10 @@
 <img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 <h1 align="center">Hi 👋, I'm Dipak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 
-- 🌱 I’m currently learning **Backend Development**
 
-- 📫 How to reach me **dipakbharvad1910@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1HQC-XdzopFOA8j1TWeTDH_UVu_wk8Mj_/view?usp=sharing).
 
 
 
